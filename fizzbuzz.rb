@@ -8,6 +8,6 @@ def fizzbuzz(int)
   elsif int % 3 === 0
     puts "Fizz"
   else
-    puts nil
+    return nil
   end
 end
